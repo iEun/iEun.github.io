@@ -7,7 +7,7 @@ title:  "Github Pages 만들기"
 
 이번 포스트는 **Github page**를 만드는 방법입니다.
 >Github Pages는 Github repository로 바로 호스팅되는 정적인 호스팅 서비스입니다. Github free로 생성할 수 있지만 Github Pages Repository를 private으로 생성하고 싶으면 Github pro 계정을 사용해야한다고 하네요.
-
+<br>
 
 ## 1. 새로운 repository 만들기
 
